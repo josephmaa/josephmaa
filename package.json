@@ -1,0 +1,22 @@
+{
+  "name": "josephmaa",
+  "version": "1.0.0",
+  "description": "<!-- **josephmaa/josephmaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephmaa/josephmaa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephmaa/josephmaa/issues"
+  },
+  "homepage": "https://github.com/josephmaa/josephmaa#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
