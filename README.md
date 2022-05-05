@@ -2,7 +2,10 @@
 
 <p>My name is Joseph and I am a researcher at UCSF studying applied computational methods for improving behavioral models of social behavior in the Manoli lab. I am interested in high performance real-time computing in challenging environments and am currently planning to pursue a masters in Computer Science at Georgia Tech with a specialization in Computing Systems. In my free time, I am helping to build a community fridge map application.</p>
 
-<img align='center' src="assets/fridge_map.png" width="300">
+<p align="center" width="100%">
+  <img src="assets/fridge_map.png" width="70%">
+</p>
+
 
 <h3>Here are a couple tools I use</h3>
 <p>
