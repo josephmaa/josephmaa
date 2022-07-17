@@ -34,6 +34,14 @@
 </p>
 
 <!--START_SECTION:waka-->
+
+```text
+Markdown     4 hrs 55 mins   ████████▓░░░░░░░░░░░░░░░░   34.14 %
+C++          4 hrs 27 mins   ███████▓░░░░░░░░░░░░░░░░░   30.97 %
+Python       3 hrs 27 mins   ██████░░░░░░░░░░░░░░░░░░░   24.02 %
+Other        33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+```
+
 <!--END_SECTION:waka-->
 
 ```javascript
