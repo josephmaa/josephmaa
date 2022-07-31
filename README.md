@@ -34,6 +34,11 @@
 </p>
 
 <!--START_SECTION:waka-->
+
+```text
+Other      8 mins          ███████████████████▒░░░░░   77.73 %
+```
+
 <!--END_SECTION:waka-->
 
 ```javascript
