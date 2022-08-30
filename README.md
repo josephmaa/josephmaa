@@ -34,6 +34,13 @@
 </p>
 
 <!--START_SECTION:waka-->
+
+```text
+Python   2 hrs 5 mins    ████████████████████████▓   99.04 %
+Diff     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Git      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+```
+
 <!--END_SECTION:waka-->
 
 ```javascript
