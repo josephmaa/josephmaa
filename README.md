@@ -34,6 +34,12 @@
 </p>
 
 <!--START_SECTION:waka-->
+
+```text
+Python       3 hrs 56 mins   ███████████████████████░░   91.76 %
+Other        9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+```
+
 <!--END_SECTION:waka-->
 
 ```javascript
