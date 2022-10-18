@@ -34,16 +34,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-
-```text
-JavaScript   1 hr 36 mins    █████████░░░░░░░░░░░░░░░░   36.25 %
-HTML         1 hr 21 mins    ███████▓░░░░░░░░░░░░░░░░░   30.91 %
-Python       58 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.04 %
-Solidity     14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
-JSON         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-```
-
 <!--END_SECTION:waka-->
 
 ```javascript
