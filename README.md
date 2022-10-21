@@ -34,16 +34,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-
-```text
-HTML         4 hrs 19 mins   ████████▒░░░░░░░░░░░░░░░░   33.69 %
-JavaScript   2 hrs 30 mins   █████░░░░░░░░░░░░░░░░░░░░   19.56 %
-Python       2 hrs 28 mins   █████░░░░░░░░░░░░░░░░░░░░   19.34 %
-Java         1 hr 29 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
-XML          30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
-Other        22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-```
-
 <!--END_SECTION:waka-->
 
 ```javascript
