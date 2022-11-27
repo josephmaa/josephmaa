@@ -34,6 +34,15 @@
 </p>
 
 <!--START_SECTION:waka-->
+
+```text
+Markdown     1 hr 9 mins     ██████████████████░░░░░░░   71.87 %
+Text         24 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.02 %
+CSV          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+```
+
 <!--END_SECTION:waka-->
 
 ```javascript
