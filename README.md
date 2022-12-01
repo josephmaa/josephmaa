@@ -34,6 +34,16 @@
 </p>
 
 <!--START_SECTION:waka-->
+
+```text
+Python       2 hrs 30 mins   ██████████████▓░░░░░░░░░░   59.25 %
+Markdown     1 hr 15 mins    ███████▒░░░░░░░░░░░░░░░░░   29.82 %
+Text         24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
+CSV          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+```
+
 <!--END_SECTION:waka-->
 
 ```javascript
