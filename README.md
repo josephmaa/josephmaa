@@ -34,15 +34,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-
-```text
-Python     4 hrs 59 mins   ███████████████████████▓░   94.59 %
-Solidity   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-Markdown   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-Text       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-```
-
 <!--END_SECTION:waka-->
 
 ```javascript
