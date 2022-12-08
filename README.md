@@ -34,6 +34,14 @@
 </p>
 
 <!--START_SECTION:waka-->
+
+```text
+Python       5 hrs 6 mins    ██████████████████████░░░   88.48 %
+Solidity     21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
+Text         17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+```
+
 <!--END_SECTION:waka-->
 
 ```javascript
