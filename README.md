@@ -34,6 +34,14 @@
 </p>
 
 <!--START_SECTION:waka-->
+
+```text
+Python   1 hr 36 mins    ███████████████████████░░   91.82 %
+YAML     6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+Text     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Git      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+```
+
 <!--END_SECTION:waka-->
 
 ```javascript
