@@ -34,16 +34,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-
-```text
-Markdown     13 mins         ███████████▒░░░░░░░░░░░░░   45.30 %
-C++          9 mins          ███████▓░░░░░░░░░░░░░░░░░   31.14 %
-CMake        4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.20 %
-Git Config   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
-Makefile     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-```
-
 <!--END_SECTION:waka-->
 
 ```javascript
