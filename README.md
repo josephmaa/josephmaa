@@ -34,6 +34,16 @@
 </p>
 
 <!--START_SECTION:waka-->
+
+```text
+Python       1 hr 49 mins    ███████▓░░░░░░░░░░░░░░░░░   31.18 %
+Svelte       1 hr 47 mins    ███████▓░░░░░░░░░░░░░░░░░   30.49 %
+JavaScript   1 hr 22 mins    ██████░░░░░░░░░░░░░░░░░░░   23.58 %
+TypeScript   33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
+C++          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+HTML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+```
+
 <!--END_SECTION:waka-->
 
 ```javascript
