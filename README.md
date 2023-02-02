@@ -34,16 +34,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-
-```text
-Svelte       2 hrs 24 mins   ████████▓░░░░░░░░░░░░░░░░   34.68 %
-JavaScript   1 hr 31 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.93 %
-Python       1 hr 8 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
-TypeScript   1 hr 6 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.84 %
-Markdown     22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-JSON         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-```
-
 <!--END_SECTION:waka-->
 
 ```javascript
