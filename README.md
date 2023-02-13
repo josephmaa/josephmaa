@@ -34,16 +34,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-
-```text
-C++          2 hrs 12 mins   ██████████▒░░░░░░░░░░░░░░   40.94 %
-Python       1 hr 5 mins     █████░░░░░░░░░░░░░░░░░░░░   20.23 %
-Makefile     55 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.13 %
-JavaScript   35 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
-TypeScript   17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-Other        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-```
-
 <!--END_SECTION:waka-->
 
 ```javascript
