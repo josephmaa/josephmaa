@@ -34,6 +34,15 @@
 </p>
 
 <!--START_SECTION:waka-->
+
+```text
+Python       3 hrs 39 mins   ██████████████▒░░░░░░░░░░   57.92 %
+JavaScript   2 hrs 30 mins   ██████████░░░░░░░░░░░░░░░   39.66 %
+CSS          8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+```
+
 <!--END_SECTION:waka-->
 
 ```javascript
