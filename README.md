@@ -34,14 +34,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-
-```text
-Python   2 hrs 57 mins   ██████████████▓░░░░░░░░░░   58.19 %
-TeX      2 hrs 6 mins    ██████████▒░░░░░░░░░░░░░░   41.44 %
-YAML     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-```
-
 <!--END_SECTION:waka-->
 
 ```javascript
