@@ -34,15 +34,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-
-```txt
-Python       1 hr 55 mins    █████████████░░░░░░░░░░░░   51.60 %
-JavaScript   1 hr 9 mins     ███████▓░░░░░░░░░░░░░░░░░   31.32 %
-HTML         28 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
-Text         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-Bash         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-```
-
 <!--END_SECTION:waka-->
 
 ```javascript
