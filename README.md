@@ -34,6 +34,14 @@
 </p>
 
 <!--START_SECTION:waka-->
+
+```txt
+Docker   12 mins         ███████████░░░░░░░░░░░░░░   44.44 %
+Bash     11 mins         ██████████░░░░░░░░░░░░░░░   39.72 %
+Python   4 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.78 %
+HTML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+```
+
 <!--END_SECTION:waka-->
 
 ```javascript
