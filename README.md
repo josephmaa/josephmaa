@@ -34,6 +34,15 @@
 </p>
 
 <!--START_SECTION:waka-->
+
+```txt
+Python         56 mins         ██████████████▒░░░░░░░░░░   57.72 %
+Bash           27 mins         ███████░░░░░░░░░░░░░░░░░░   27.79 %
+Ezhil          7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
+ActionScript   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+TSQL           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+```
+
 <!--END_SECTION:waka-->
 
 ```javascript
