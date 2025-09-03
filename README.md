@@ -34,6 +34,15 @@
 </p>
 
 <!--START_SECTION:waka-->
+
+```txt
+Java         1 hr 35 mins    ████████████░░░░░░░░░░░░░   47.46 %
+Markdown     1 hr 9 mins     ████████▓░░░░░░░░░░░░░░░░   34.38 %
+Groovy       12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+HTML         11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+Makefile     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+```
+
 <!--END_SECTION:waka-->
 
 ```javascript
