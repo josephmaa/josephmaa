@@ -34,11 +34,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-
-```txt
-Java   51 mins         █████████████████████████   100.00 %
-```
-
 <!--END_SECTION:waka-->
 
 ```javascript
